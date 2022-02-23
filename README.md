@@ -1,5 +1,5 @@
 # Demo
 
 - Learnig Github
-- put another line
+- Putting another line
 - Fixing merge conflict
